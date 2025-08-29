@@ -63,5 +63,5 @@ To provide a **single source of truth** for banking executives, enabling them to
 
 ## 6. Screenshots / Demos  
 ### Banking Dashboard  
-![Banking Dashboard Preview](BankingDashboard_Snapshot.png)  
+![Banking Dashboard Preview](Snapshot%20of%20Dashboard-%20Banking.png)  
 
